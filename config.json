@@ -1,0 +1,9 @@
+{
+    "twitter": {
+        "api-key": "xxx",
+        "api-key-secret": "xxx",
+        "bearer-token": "xxx",
+        "access-token": "xxx",
+        "access-token-secret": "xxx"
+    }
+}
