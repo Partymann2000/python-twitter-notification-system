@@ -14,8 +14,8 @@ pip install asyncio, py-cord, tweepy
 
 ## Usage
 
-### 1. ClientID and the ClientSecret
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=gonG7_ffwsk)
+### 1. API-Key, API_Secret, Bearer-Token, Access-Token and Access-Token-Secret
+[![Watch the video](https://devportalawards.org/sites/default/files/styles/nominees_image/public/2021-06/Screenshot%202021-06-04%20at%2011.55.25.png?itok=QuqgbYrb)](https://www.youtube.com/watch?v=gonG7_ffwsk)
 
 ### 2. The Code
 
