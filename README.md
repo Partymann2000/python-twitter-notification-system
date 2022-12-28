@@ -1,5 +1,12 @@
 # python-twitter-notification-system
 
+
+#VERY IMPORTANT!!!
+If you create a new developer account now, the script will not work anymore only if you had a dev account before 28 October this year. 
+
+
+
+
 ## About
 
 This is a Python script that can be used in a cog. This script will send you in your Discord a Twitch notification from people you can define in a config, you can also choose a channel where you want to send the notification and a role you want to tag.
